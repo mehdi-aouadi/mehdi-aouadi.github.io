@@ -6,7 +6,7 @@ permalink: /about/
 
 I not only a fan of programming. I am a Software Engineer.  
 
-I actually live in Paris and I work as a Full-stack Software Engineer. I help companies developing, refactoring or maintaining their softwares.  
+I actually live in Paris I help companies developing, refactoring or maintaining their software.  
 
 I believe that thanks to software engineering, machines can make our life better and easier. I also believe that we should not only create software but good ones. This means maintainable, scalable and reusable software. I am an advocate of [Steve McConnell Code Complete book](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670){:target="_blank"} and I believe software engineering is an art. 
 I helped many companies build new software and improve existing ones and I discovered and learnt many new technologies during each experience.  
