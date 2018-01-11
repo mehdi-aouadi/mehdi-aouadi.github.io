@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I not only a fan of programming. I am a Software Engineer. 
-I started programming at the age  
+{% include typed-text-about.html %}
+
+I not only a fan of Computers. I am a Software Engineer.  
 
 I actually live in Paris and I help companies developing, refactoring or maintaining their software.  
 
@@ -14,7 +15,7 @@ I helped many companies build new software and improve existing ones and I disco
 
 I do my best to improve my skills and learn new technologies. I am a curious fast learner who always tries new technologies and believes that they could be easily learnt and used to solve issues.  
 
-I created this blog to keep track and summarize new things I learn about software development so I can easily refer to them later. I believe reflecting and writing down a summary of what I learn is the most important step in the learning process. [I discovered this interesting research about reflections in the learning process](https://sites.google.com/site/reflection4learning/why-reflect){:target="_blank"}.  
+I created this blog to keep track and summarize new things I learn about software development so I can easily refer to them later. I believe reflecting and writing down a summary of what I learn is the most important step in the learning process. If you are not convinced please read [this interesting research about the importance of reflections in the learning process](https://sites.google.com/site/reflection4learning/why-reflect){:target="_blank"}.  
 
 I also like to share my knowledge and learn from others. I am open minded and I easily accept challenges and changes.  
 
