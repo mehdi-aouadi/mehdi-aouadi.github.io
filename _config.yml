@@ -8,7 +8,7 @@
 # Site settings
 title: M9I
 email: mehdi.aouadi@gmail.com
-description: > 
+description: >
     Yet Another Tech Blog !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000"
