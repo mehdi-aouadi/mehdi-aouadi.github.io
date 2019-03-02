@@ -27,7 +27,7 @@ header p {
   margin: 0;
 }
 
-footer {  
+footer {
   padding: 20px;
 }
 
@@ -51,7 +51,7 @@ footer .row {
 }
 
 .jumbotron hr {
-   width: 80px; 
+   width: 80px;
 }
 
 .jumbotron {
@@ -133,7 +133,7 @@ section .row img {
   .header__title {
     margin-left: 0;
     font-size: 2em;
-    vertical-align: bottom; 
+    vertical-align: bottom;
   }
   .nav {
     z-index: 10;
