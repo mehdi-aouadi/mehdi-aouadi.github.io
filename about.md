@@ -27,4 +27,5 @@ I like to share my knowledge and learn from others. I am open minded and easily 
 Last but not least I am a chef in the heart. I love cooking, especially vegan food made from fresh and organically grown ingredients.
 <br>
 <br>
-I hope that you will find my articles helpfull and interesting and I will appreciate your comments, feedbacks or emails to improve the content of this blog.
+I hope that you will find my articles helpfull.
+I would appreciate your comments, feedbacks or emails to improve the content of this blog.
