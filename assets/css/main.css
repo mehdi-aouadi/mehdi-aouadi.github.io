@@ -57,7 +57,7 @@ footer .row {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('../img/jumbotron.jpg');
+  background: #6a9fb5;
   background-size: cover;
   color: #ffffff;
   height: 69vh;
@@ -173,12 +173,12 @@ section .row img {
     color: #fff;
   }
   .jumbotron h3 {
-    font-size: 10px;
+    font-size: 16px;
     margin: 0 0 20px;
     color: #fff;
   }
   .jumbotron h4 {
-    font-size: 8px;
+    font-size: 12px;
     margin: 0 0 20px;
     color: #fff;
   }
@@ -186,11 +186,17 @@ section .row img {
     font-size: 10px;
   }
   footer h5 {
-    font-size: 6px;
+    font-size: 12px;
+  }
+  footer li {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
   }
   footer li img {
-    width: 15px;
-    height: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 25px;
+    width: 25px
   }
   footer ul {
     margin-left: 90px;

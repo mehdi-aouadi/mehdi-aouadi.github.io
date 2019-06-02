@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Organic Code Forest
+title: Mehdi
 email: mehdi.aouadi@gmail.com
 description: >
     Yet Another Tech Blog !
@@ -20,3 +20,4 @@ github_username:  mehdi-aouadi
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
