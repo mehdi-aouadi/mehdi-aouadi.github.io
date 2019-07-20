@@ -45,7 +45,7 @@ Before reading this book, I would recommend to watch [Marting Fowler's presentat
 <br>
 
 I think Brooks's book is one of the **must read classic in our field**.
-Some people even called it **"the bible of software engineering"**. As [Daniel ROTH said](https://money.cnn.com/magazines/fortune/fortune_archive/2005/12/12/8363107/index.htm){:target="_blank"} :  
+Some people even called it **"the bible of software engineering"**. As [Daniel Roth said](https://money.cnn.com/magazines/fortune/fortune_archive/2005/12/12/8363107/index.htm){:target="_blank"} :  
 <br>  
 
 >  Everybody quotes it, some people read it, and a few people go by it  
