@@ -21,7 +21,7 @@ I completely renewed my software engineering philosophy after reading this book.
 If I had to summarize this book in one sentence it would be:  
 <br>  
 
-> Write code that could live and evolve and not code that only works now  
+> Write code that could live and evolve and not code that only works on the spot  
 
 ### [More Effective Agile](https://moreeffectiveagile.com/){:target="_blank"}
 <div align="center">
@@ -44,8 +44,8 @@ Before reading this book, I would recommend to watch [Marting Fowler's presentat
 </div>
 <br>
 
-I think brooks's book is one of the **must read classic in our field**.
-Some people even called it **"the bible of software engineering"**. I would agree as [Daniel ROTH said](https://money.cnn.com/magazines/fortune/fortune_archive/2005/12/12/8363107/index.htm){:target="_blank"} :  
+I think Brooks's book is one of the **must read classic in our field**.
+Some people even called it **"the bible of software engineering"**. As [Daniel ROTH said](https://money.cnn.com/magazines/fortune/fortune_archive/2005/12/12/8363107/index.htm){:target="_blank"} :  
 <br>  
 
 >  Everybody quotes it, some people read it, and a few people go by it  
@@ -80,7 +80,7 @@ Joshua Bloch led the design and implementation of the Java Collection Framework 
 <br>
 
 A lot of books are trying to sell magic recipes to start a business and generally only talk about the great things about it. **No one talks about the hard things when launching a business**.
-In this book, Ben Horowitz, co-founder of Andressen Horowitz and one of Silicon Valley's most respectful and experienced entrepreneur, is **brutally honest how hard it is to run business**.  
+In this book, Ben Horowitz, co-founder of Andressen Horowitz and one of Silicon Valley's most respectful and experienced entrepreneur, is **brutally honest about how hard it is to run business**.  
 The author is a lifelong rap fan and amplifies business lessons with lyrics from his favorite songs!
 
 ### [Growing a Business](https://www.amazon.com/Growing-Business-Paul-Hawken/dp/0671671642){:target="_blank"}
@@ -102,8 +102,8 @@ From this book I learned that the most successful business will grow from someth
 </div>
 <br>
 
-When you do something, **it doesn't matter how do you do it, it matters WHY you do it**.  
-The why is the only thing that will keep you motivated and, more important, will attract people who share your why (your vision).  
+When you do something, **it doesn't matter HOW you do it, it matters WHY you do it**.  
+The why is the only thing that will keep you motivated and, more important, will attract people who share your why (your motivation).  
 Actually few companies care about the why. They only focus on the what and how.  
 In this book Simon Sinek states **the importance of knowing the why** which corresponds to the middle section of the brain, the limbic system. This is the part of the brain responsible for all our behavior and decision making. He calls this concept: [**The golden circle (Why, How and What)**](https://startwithwhy.com/commit/the-golden-circle){:target="_blank"}
 
@@ -129,4 +129,3 @@ This book is **not a time-management strategy** but rather **a guide to become a
 **Who is John Galt?** The man who stopped the world engine.  
 What if the business leaders abandon their companies and disappear as a "strike" of productive individuals against the looters?
 Ayn Rand deliciously expands his philosophy about **"the role of man's mind in existence"** in a captivating novel.  
-There is a movie about this book but I never watched for my own good.
