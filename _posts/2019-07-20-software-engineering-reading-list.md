@@ -32,7 +32,7 @@ If I had to summarize this book in one sentence it would be:
 <br>
 
 I had the chance to review a pre-publication copy of this book.  
-Steve shares **practical techniques to effectively implement Agile methodologies and avoid the classic pitfalls**. He also gives concrete examples and statistics he gathered from his experiences where he assisted companies to set up "effective" Agile environments.  
+Steve shares **practical techniques to effectively implement Agile methodologies and avoid the classic pitfalls**. He also gives concrete examples and statistics he gathered from his experiences where he assisted companies to set up **effective Agile environments**.  
 The final version will be published on August 2019 and my name will be in the acknowledgments section!  
 Before reading this book, I would recommend to watch [Marting Fowler's presentation at Agile Australia 2018](https://youtu.be/G_y2pNj0zZg){:target="_blank"} where he reflects on Agile’s journey to become a mainstream methodology.
 
@@ -68,7 +68,7 @@ As stated by [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for
 </div>
 <br>
 
-If you are building software on the **Java Platform** and want to learn how to use it **"effectively"**, you must have a copy of this book on your desk.  
+If you are building software on the **Java Platform** and want to learn how to use it **effectively**, you must have a copy of this book on your desk.  
 Joshua Bloch led the design and implementation of the Java Collection Framework and many other features. He knows the Java Platform internals and will guide you through **making the most of it** with code examples for real use cases. The third edition covers Java 9.  
 
 ### [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/B00I0A6HUO){:target="_blank"}
@@ -116,7 +116,7 @@ In this book Simon Sinek states **the importance of knowing the why** which corr
 <br>
 
 The hard thing about software is that **you will never know everything you need to know to solve your problems**. It is important to know how to find the best path to your solution and avoid black holes.  
-This book is **not a time-management strategy** but rather **a guide to become an "Essentialist"**. Someone in the **pursuit of less** to regain control of his choices.  
+This book is **not a time-management strategy** but rather **a guide to become an 'Essentialist'**. Someone in the **pursuit of less** to regain control of his choices.  
 
 ### [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145){:target="_blank"}
 <div align="center">
@@ -127,5 +127,5 @@ This book is **not a time-management strategy** but rather **a guide to become a
 <br>
 
 **Who is John Galt?** The man who stopped the world engine.  
-What if the business leaders abandon their companies and disappear as a "strike" of productive individuals against the looters?
-Ayn Rand deliciously expands his philosophy about **"the role of man's mind in existence"** in a captivating novel.  
+What if the business leaders abandon their companies and disappear as a strike of productive individuals against the looters?  
+Ayn Rand deliciously expands his philosophy about **'the role of man's mind in existence'** in a captivating novel.  
