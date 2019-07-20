@@ -2,6 +2,7 @@
 layout: post
 title:  "Reading List"
 imageSize: 300
+comments: true
 ---
 
 Here is a list of books I enjoyed reading the most. 
