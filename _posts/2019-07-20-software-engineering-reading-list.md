@@ -4,7 +4,7 @@ title:  "Reading List"
 imageSize: 300
 ---
 
-Here is a list of some of the books I enjoyed reading the most during the past few years. 
+Here is a list of books I enjoyed reading the most. 
 I will update it regularly.  
 <!--more-->
 
