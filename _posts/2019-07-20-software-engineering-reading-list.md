@@ -18,7 +18,7 @@ I will update it regularly.
 <br>
 
 Definitely **my favorite book in software engineering**. It is a practical guide to building software and it is language agnostic. It covers both basic and advanced software development techniques (not only coding).  
-I completely renewed my software engineering philosophy after reading this book. I felt like I chose the the blue pill and joined the **professional developers community**.  
+I completely renewed my software engineering philosophy after reading this book. I felt like I chose the red pill and joined the **professional developers community**.  
 If I had to summarize this book in one sentence it would be:  
 <br>  
 
